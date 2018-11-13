@@ -1,4 +1,4 @@
-# Getting-Started-with-R-for-Analyst-1
+# Getting-Started-with-R-for-Analyst
 This repo will help beginners to get started with R with respect to data manipulations and basic r functionality. 
 
 ## Step 1: Basic Commands to access the data
